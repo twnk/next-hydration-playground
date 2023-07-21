@@ -1,5 +1,10 @@
 ## Getting Started
 
+Install dependencies
+```bash
+npm i
+```
+
 First, run the production server:
 
 ```bash
